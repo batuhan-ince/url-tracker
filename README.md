@@ -1,4 +1,4 @@
-# HOW IT WORKS:
+# INSTALLATION:
 
 - Download the repo as .zip file
 - Extract the .zip file
@@ -6,3 +6,7 @@
 - On the up-right side of the page, enable the developer mode
 - On the up-left side of the page, click load unpacked and select the extracted file
 - Voila, you can use the url-tracker extension now :)
+
+# HOW IT WORKS:
+
+- 
