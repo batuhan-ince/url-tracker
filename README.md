@@ -11,3 +11,6 @@
 
 ![url-tracker extension](https://github.com/batuhan-ince/url-tracker/blob/main/src/site.png)
 
+- When you are in the desired page, just hit the **SAVE TAB** button and save the url of the page
+- Or, you can just type the url of the page you wanted to add and hit the **SAVE INPUT** button
+- If you want to clear the urls, you need to double click the **DELETE ALL** button
