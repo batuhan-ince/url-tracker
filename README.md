@@ -9,4 +9,4 @@
 
 # HOW IT WORKS:
 
-- 
+![url-tracker extension](https://github.com/batuhan-ince/url-tracker/tree/main/src/site.png)
